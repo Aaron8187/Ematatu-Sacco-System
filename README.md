@@ -1,2 +1,2 @@
-# Ematatu-Sacco-System
-A sacco managements system for matatu saccos in kenya built on raw PHP.
+# matatu-management-System
+A matatu managements system 
